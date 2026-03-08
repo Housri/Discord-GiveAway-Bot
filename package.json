@@ -1,0 +1,16 @@
+{
+  "name": "giveaway-bot",
+  "version": "1.0.0",
+  "description": "Discord giveaway bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0",
+    "dotenv": "^17.2.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
